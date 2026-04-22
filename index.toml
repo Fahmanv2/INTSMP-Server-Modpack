@@ -823,6 +823,11 @@ hash = "df579004d2bbc6dee8367eeddf5f6402ec4ec51c2c14908c93911cfb524a3fe4"
 metafile = true
 
 [[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "427becee36c1acf4fcfed0bd9044f9742acc5e19e37a143d0cd929a9110a8d83"
+metafile = true
+
+[[files]]
 file = "mods/interactivestuff.pw.toml"
 hash = "1823ea48638b67743f4fdabad0d915b64b8e6eae3222c8d93c227b6a119e8449"
 metafile = true
@@ -1010,11 +1015,6 @@ metafile = true
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
 hash = "964ad007b3df23bb23c90e2f5d2a25aa30f403808a0a853d9021f232caff106f"
-metafile = true
-
-[[files]]
-file = "mods/the-immersive-music-mod.pw.toml"
-hash = "05093a5027876d7db9315ca0dc8e2921cb6cdc2aa50d7e0339c29b7ae27ccbb4"
 metafile = true
 
 [[files]]
