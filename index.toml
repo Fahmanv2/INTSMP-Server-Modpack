@@ -1013,6 +1013,11 @@ hash = "964ad007b3df23bb23c90e2f5d2a25aa30f403808a0a853d9021f232caff106f"
 metafile = true
 
 [[files]]
+file = "mods/the-immersive-music-mod.pw.toml"
+hash = "05093a5027876d7db9315ca0dc8e2921cb6cdc2aa50d7e0339c29b7ae27ccbb4"
+metafile = true
+
+[[files]]
 file = "mods/tightfire.pw.toml"
 hash = "3dc51000bdb93d200fc7c591c8d26c0f2f5d70b3de126e4e728a2b4d1b06b6a5"
 metafile = true
