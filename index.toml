@@ -154,6 +154,11 @@ hash = "af558a7155aec0644028cdc65fa58c056a3863f06f1046c6f82c0ab5cfb94df1"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "06ecf8909f6baf4ab229bad6e6490b79fa26be7263abc24ca3d3d50102f239eb"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "93d1983d9bfa793062896c82a9eb32202681903b4a933abf482d1cc578b12b8b"
 metafile = true
@@ -251,6 +256,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-ui.pw.toml"
 hash = "df579004d2bbc6dee8367eeddf5f6402ec4ec51c2c14908c93911cfb524a3fe4"
+metafile = true
+
+[[files]]
+file = "mods/immersivemusicmod.pw.toml"
+hash = "427becee36c1acf4fcfed0bd9044f9742acc5e19e37a143d0cd929a9110a8d83"
 metafile = true
 
 [[files]]
