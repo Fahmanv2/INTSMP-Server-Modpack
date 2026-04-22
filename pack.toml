@@ -1,4 +1,4 @@
-name = "INTSMP-Server-Modpack"
+name = "INTSMP Server Modpack"
 author = "Fahman"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a1de23a9c1913688897cfaeee14b7abfbe934c58023716c31d5d4d08fff993d6"
+hash = "06f03dc53c0886a46cfd197ee152058b8e9d1b6503083718bdee4dd8fc924852"
 
 [versions]
 fabric = "0.19.2"
