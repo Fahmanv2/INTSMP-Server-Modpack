@@ -49,10 +49,6 @@ file = "config/blur.json"
 hash = "bc5f48e50d852b21cd6351be7bca981011c9e7657c04e34c60de55cef950a64b"
 
 [[files]]
-file = "config/cameraoverhaul.toml"
-hash = "4378f52d1e973d35e4dffb68a2cec006c4782efa92695cf7c564771f12830e1e"
-
-[[files]]
 file = "config/chat_heads.json5"
 hash = "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503"
 
@@ -114,7 +110,7 @@ hash = "8c0944badd77989a8c6e1b19e0f80ee14ea12060886ca8e2544d450772c87a08"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "40540e99b3c08e3c0d410a11a76d134691ee5b566523e67e62d06055dcc098cc"
+hash = "688ba0766fb41d97bc737b12523d891bf0b01eee7da58623f8b1e3622caf0c71"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
