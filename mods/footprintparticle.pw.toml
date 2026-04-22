@@ -1,0 +1,13 @@
+name = "FootprintParticle"
+filename = "footprintparticle-0.5.4-mc1.21.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZQOoOaY/versions/ZN4waCov/footprintparticle-0.5.4-mc1.21.11.jar"
+hash-format = "sha512"
+hash = "938ac27123273955f501377207cbf84de0b912743688e9d4c55e9e61f18dbd130bd360ef9100562132bdecb7d8fd82b06ad81a651598b30480fd97449f3b8ac5"
+
+[update]
+[update.modrinth]
+mod-id = "xZQOoOaY"
+version = "ZN4waCov"
