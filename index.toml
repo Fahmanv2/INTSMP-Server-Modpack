@@ -114,7 +114,7 @@ hash = "8c0944badd77989a8c6e1b19e0f80ee14ea12060886ca8e2544d450772c87a08"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "688ba0766fb41d97bc737b12523d891bf0b01eee7da58623f8b1e3622caf0c71"
+hash = "40540e99b3c08e3c0d410a11a76d134691ee5b566523e67e62d06055dcc098cc"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -1015,6 +1015,11 @@ metafile = true
 [[files]]
 file = "mods/text-placeholder-api.pw.toml"
 hash = "964ad007b3df23bb23c90e2f5d2a25aa30f403808a0a853d9021f232caff106f"
+metafile = true
+
+[[files]]
+file = "mods/the-immersive-music-mod.pw.toml"
+hash = "05093a5027876d7db9315ca0dc8e2921cb6cdc2aa50d7e0339c29b7ae27ccbb4"
 metafile = true
 
 [[files]]
