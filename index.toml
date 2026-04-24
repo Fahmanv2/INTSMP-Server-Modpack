@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/assets/image.png"
-hash = "4bb184f714f7b271318191ac367a1a2b1917174a85edf751099cf7083f2da82d"
+file = "config/fancymenu/assets/fireplace.mp4"
+hash = "e16802e5a0989c28102356a2e8e8c4d7811cf982348fb5885c48e5e95f4881b3"
 
 [[files]]
 file = "config/fancymenu/assets/image2.png"
@@ -30,7 +30,7 @@ hash = "badf47775ac7135b624b1bba9ed7e2da7df4d4b83ede04d499fe2b8896f276c2"
 
 [[files]]
 file = "config/fancymenu/customization/intsmplayout.txt"
-hash = "8d28c513df52aa6c821635bc2954b0de8b9ec8b5bd96be2e58313fff952a8087"
+hash = "106ac4d3b1bc2f1763f6a80f9715819a49923545d622e86d2688154ab71b5b75"
 
 [[files]]
 file = "config/fancymenu/customization/level_loading_screen_layout.txt"
@@ -38,7 +38,7 @@ hash = "dd3c9f89d3c30acb88914cb11fc25b65fa07ab4bbdc4f1932373949af12125df"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
-hash = "8562742e58a6f015e4e6c490e156c703dda310116ee7f52660876a3eb9dc3c5d"
+hash = "5d740b7060e4f6d4bee7c73bc48df042df370d15c0941ede2c959d296477005d"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -50,7 +50,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "a040eb55282fed8d7d2364c27edf13ea4c2e39322b89a81ff66cf4744ef92924"
+hash = "33585363f9c3417b3a3350d365460b3964f9d825023da5385354d35041462b08"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -63,6 +63,10 @@ hash = "3fcfc5f9957fbb86aea846c9ad49a24f47ca709c523c4018b584668e38b72f41"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/fancymenu/video_element_controller_metas.json"
+hash = "63c64d513d8a06da0e7c07a6eb1b5930f094607af03946fe7c9e766f0bebf33a"
 
 [[files]]
 file = "mods/MickeyJoesFlowers 26.1.zip"
@@ -301,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/make-bubbles-pop.pw.toml"
 hash = "c0da43cc9bf603b835ec67b313bccfcc379f2889d70f29d60dd0cbc7ed727d97"
+metafile = true
+
+[[files]]
+file = "mods/mcef-keksuccino.pw.toml"
+hash = "8a86c13d0ff46481ef6ee3724c56553f12335286a9880cf396448eb828607657"
 metafile = true
 
 [[files]]
