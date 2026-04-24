@@ -30,7 +30,7 @@ hash = "badf47775ac7135b624b1bba9ed7e2da7df4d4b83ede04d499fe2b8896f276c2"
 
 [[files]]
 file = "config/fancymenu/customization/intsmplayout.txt"
-hash = "e5447e4491a49c029379ee699fc692036fbcbc135398c0a201714251aafd2748"
+hash = "8d28c513df52aa6c821635bc2954b0de8b9ec8b5bd96be2e58313fff952a8087"
 
 [[files]]
 file = "config/fancymenu/customization/level_loading_screen_layout.txt"
@@ -141,11 +141,6 @@ metafile = true
 [[files]]
 file = "mods/cosy-critters.pw.toml"
 hash = "d931da03c1b86c0a3477f432702ff0bce2913c0b431036743efa12ea175f2189"
-metafile = true
-
-[[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "6992b4cc6ca6cdf7ce1eafccbc8bffb5e5d16f9298d20cb21e7d87146e2bdd9a"
 metafile = true
 
 [[files]]
