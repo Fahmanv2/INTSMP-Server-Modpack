@@ -143,11 +143,6 @@ hash = "c51f46497f367ee55ad75abe400e397f1a7d8fa167ae93f13cd397d7442e2d05"
 metafile = true
 
 [[files]]
-file = "mods/cosy-critters.pw.toml"
-hash = "d931da03c1b86c0a3477f432702ff0bce2913c0b431036743efa12ea175f2189"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "af558a7155aec0644028cdc65fa58c056a3863f06f1046c6f82c0ab5cfb94df1"
 metafile = true
