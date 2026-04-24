@@ -65,6 +65,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "95613644547fdde1ad08ec2d968dceb8410e29ac72cad1983aeca85be520c4bb"
+
+[[files]]
 file = "mods/MickeyJoesFlowers 26.1.zip"
 hash = "570299dc1b750705ba2d7a59d040640412f5aba1c1c968a97a5033aa0a69a879"
 
@@ -396,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a75f364211af137686efc7efcccacadba737fe072db7b3969fbce2c8aa643edd"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "85a5ed322f547de3413ed6944f2a09ab53abb6db323f00c42ee13c6e2f391fb4"
 metafile = true
 
 [[files]]
