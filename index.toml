@@ -408,11 +408,6 @@ hash = "85a5ed322f547de3413ed6944f2a09ab53abb6db323f00c42ee13c6e2f391fb4"
 metafile = true
 
 [[files]]
-file = "mods/resourcify.pw.toml"
-hash = "1a4a1d6f1cf3c5930d08736ce34570437e39ad3da94ba6513e92203c10269efa"
-metafile = true
-
-[[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "d142e126e170baafff57f187b0a145c545d067b8fdd4282f1e396e2463f7ee62"
 metafile = true
