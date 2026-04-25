@@ -69,6 +69,10 @@ file = "config/fancymenu/video_element_controller_metas.json"
 hash = "63c64d513d8a06da0e7c07a6eb1b5930f094607af03946fe7c9e766f0bebf33a"
 
 [[files]]
+file = "config/maplink/general.json5"
+hash = "f3d906f83be58589c63410b38832d9bc1b1f7a6d7495b35e05b33a43399072e5"
+
+[[files]]
 file = "mods/MickeyJoesFlowers 26.1.zip"
 hash = "570299dc1b750705ba2d7a59d040640412f5aba1c1c968a97a5033aa0a69a879"
 
@@ -305,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/make-bubbles-pop.pw.toml"
 hash = "c0da43cc9bf603b835ec67b313bccfcc379f2889d70f29d60dd0cbc7ed727d97"
+metafile = true
+
+[[files]]
+file = "mods/maplink.pw.toml"
+hash = "389c1b5ef9334c0a8c25bfe5cadd8bfdbdbc6feb2d129b31621510417c9c2079"
 metafile = true
 
 [[files]]
