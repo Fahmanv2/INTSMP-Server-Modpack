@@ -35,6 +35,9 @@
 			"dimensionMapping": {
 				"minecraft:overworld": [
 					"world"
+				],
+				"minecraft:the_nether": [
+					"world_nether"
 				]
 			}
 		}
@@ -48,7 +51,7 @@
 	"enablePlayerIconWaypoints": true,
 	"useMcHeadsPlayerNameIcons": false,
 	"playerWaypointColor": "Black",
-	"showAfkInTabList": true,
+	"showAfkInTabList": false,
 	"timeUntilAfk": 120,
 	"showAfkTimeInTabList": true,
 	"hideAfkMinutes": false,
@@ -69,8 +72,8 @@
 	"maxChunkArea": 500000,
 	"excludeOPAC": true,
 	"ignoredServers": [],
-	"ignoreMarkerMessage": false,
-	"hideAllChatErrors": false,
+	"ignoreMarkerMessage": true,
+	"hideAllChatErrors": true,
 	"invisibilityRecovery": true,
 	"debugMode": false,
 	"chatLogInDebugMode": false,
