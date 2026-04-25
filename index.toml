@@ -143,6 +143,11 @@ hash = "c51f46497f367ee55ad75abe400e397f1a7d8fa167ae93f13cd397d7442e2d05"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "20a8eb9b49cb58482a35ac4e9d068cd70c23cd86555494bbfacc2056b2131f44"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "af558a7155aec0644028cdc65fa58c056a3863f06f1046c6f82c0ab5cfb94df1"
 metafile = true
@@ -403,11 +408,6 @@ hash = "a75f364211af137686efc7efcccacadba737fe072db7b3969fbce2c8aa643edd"
 metafile = true
 
 [[files]]
-file = "mods/simple-discord-rich-presence.pw.toml"
-hash = "d142e126e170baafff57f187b0a145c545d067b8fdd4282f1e396e2463f7ee62"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "a87dc5173e47487ad33e3e1af5f939c5c345bc4ffb05a8c567ce2f8d10049f08"
 metafile = true
@@ -450,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/tightfire.pw.toml"
 hash = "3dc51000bdb93d200fc7c591c8d26c0f2f5d70b3de126e4e728a2b4d1b06b6a5"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "10daac97634014be6358aa3515589c173378ef72b96fd9e7aeafed43dc4cfc81"
 metafile = true
 
 [[files]]
