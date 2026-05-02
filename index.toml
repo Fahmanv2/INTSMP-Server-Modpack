@@ -185,6 +185,11 @@ hash = "41dd525b31da8fec474860f0931c24b234b789c3d5a751814fdf62f58af294f3"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "7973c1b502db606e9fa57397b6dc80056072b2d9b397cbda855b42eea4b95529"
+metafile = true
+
+[[files]]
 file = "mods/drippy-loading-screen.pw.toml"
 hash = "58a2a2100217162588901dcc251a93e2470f9013794a09d74388456833c5829e"
 metafile = true
