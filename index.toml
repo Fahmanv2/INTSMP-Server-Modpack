@@ -120,6 +120,11 @@ hash = "a8321c6d297c9a266a82600942a2b329f374abb9f3fdd0810499a2f26a082b2d"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7952ed77f918c875716b6af9e6a47953ae5dc284e676557f368e38c04526f6b9"
+metafile = true
+
+[[files]]
 file = "mods/blur-fabric.pw.toml"
 hash = "9baeff5cad9bd691e9d7d3a28daf39de2f079659719400e76f92eb049a981268"
 metafile = true
@@ -195,6 +200,11 @@ hash = "6e9bcf87d30c6d416572e1a121fdcc9d78158aaebe2edcbfdc420c8d2f720074"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "adcf2601fe44683e7b762d4f4874ed20299818b2e7eb926545903bb80e55524f"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "bbe0c5aa23b613dd689aeafb2d1eff32b726af230bbd489a296520ecb80bcb0d"
 metafile = true
@@ -222,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "c57771f2bcce485839b3e4bd5d4a99399a1dd7046394fa606fd6e1c9f82f78a9"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "6669f33967bd24895a21476c1701d4932ae14a8516d318d9266e0d42eb38ee60"
 metafile = true
 
 [[files]]
@@ -280,6 +295,11 @@ hash = "1823ea48638b67743f4fdabad0d915b64b8e6eae3222c8d93c227b6a119e8449"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "839d5e3cb0d5088cea47c6ee18b1ea4e4055f38ccbb0194544ff73ab9c5d9cd3"
+metafile = true
+
+[[files]]
 file = "mods/invmove.pw.toml"
 hash = "f0b62d348d4685baa79db8f3319364c91f4fea21b0010dd8af2df0cf2bd130f4"
 metafile = true
@@ -307,6 +327,11 @@ metafile = true
 [[files]]
 file = "mods/leawind-third-person.pw.toml"
 hash = "ef88fc89c30e4ba252e09e8228d3c23b1d24ba672b7e6e8c4067c957d8896da5"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "200890e05315c9668c8f54ea14dcdee4af48cff502824428900280b9baec5330"
 metafile = true
 
 [[files]]
@@ -365,11 +390,6 @@ hash = "5e6a43061b2dfd66120a4a4766f70aa8727a8191c1d3b4893bc1812cd7f2b351"
 metafile = true
 
 [[files]]
-file = "mods/nemos-inventory-sorting.pw.toml"
-hash = "54b55b5723002f33258d37334c3a1d1162ce423d9a9bb7ece0118c2935b25993"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "4a7720c5d70dad3b0cdc21d9ccdeeed98e1d727243520c781aeb37c6bf9c1558"
 metafile = true
@@ -425,6 +445,11 @@ hash = "a75f364211af137686efc7efcccacadba737fe072db7b3969fbce2c8aa643edd"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "b6bfc77087bc686cf7b9db7ab49150e39d11e32fd2b54dc28e90711f470708c4"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "eb586ee7fd3766ba9b73c6dcd46c0b858743cd1b5368633a42c4283f511463f7"
 metafile = true
@@ -457,6 +482,11 @@ metafile = true
 [[files]]
 file = "mods/swinging-lanterns.pw.toml"
 hash = "0bd01ea419707ab515604b066ed9928e712baddf69e0a07680b4c41d37886767"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "55e6f3c2e756c504561ac483a9bce2758fbfc7ae6e0f5100a5a3b31ee95b0bf2"
 metafile = true
 
 [[files]]
