@@ -135,6 +135,11 @@ hash = "a91e21b84c5f3b1e748cd74a4ae0aa5efbc367573a49054341c410cad4c92ed0"
 metafile = true
 
 [[files]]
+file = "mods/chatnotify.pw.toml"
+hash = "a7b8819e7473dd5b0c52350926b72f6ad4c4f8f1a5828470c5930cdf42a44055"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f259fadfd878ad1cc800a87b66a2fb46716c83b2fb1e3fd67a034ff215b3a53b"
 metafile = true
