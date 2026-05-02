@@ -495,6 +495,11 @@ hash = "120f88fbaae2669c1eb784a8cec79443cfa759c2dd8d9473ee442d80fc6917a6"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "0db01c3a00fa869d75551efdd90a227b942f6ab8339426b956297072226341d6"
+metafile = true
+
+[[files]]
 file = "mods/swinging-lanterns.pw.toml"
 hash = "0bd01ea419707ab515604b066ed9928e712baddf69e0a07680b4c41d37886767"
 metafile = true
