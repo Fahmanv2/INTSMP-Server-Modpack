@@ -160,6 +160,11 @@ hash = "c51f46497f367ee55ad75abe400e397f1a7d8fa167ae93f13cd397d7442e2d05"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "20a8eb9b49cb58482a35ac4e9d068cd70c23cd86555494bbfacc2056b2131f44"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "af558a7155aec0644028cdc65fa58c056a3863f06f1046c6f82c0ab5cfb94df1"
 metafile = true
@@ -412,11 +417,6 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "5beaeeb918622669ca5ad896262248b985e76b81d693b332df8012af54a49356"
-metafile = true
-
-[[files]]
-file = "mods/phases-discord-rich-presence.pw.toml"
-hash = "9feb253f0621f081f4db8b6a6ef64a1fc722c38e398665412f64ce2c42477df7"
 metafile = true
 
 [[files]]
