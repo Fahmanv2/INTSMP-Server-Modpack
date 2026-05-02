@@ -520,11 +520,6 @@ hash = "3dc51000bdb93d200fc7c591c8d26c0f2f5d70b3de126e4e728a2b4d1b06b6a5"
 metafile = true
 
 [[files]]
-file = "mods/tools-on-my-back.pw.toml"
-hash = "850d7ac0716f4fd4fd374a7ddf62a99bb0d2f5e51decbf92aa383f600db7885e"
-metafile = true
-
-[[files]]
 file = "mods/unilib.pw.toml"
 hash = "10daac97634014be6358aa3515589c173378ef72b96fd9e7aeafed43dc4cfc81"
 metafile = true
@@ -557,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/wavey-capes.pw.toml"
 hash = "667a9c5628e469e7fdb760df8d979c169b91943bcb1ef50c38c311e5075d3846"
+metafile = true
+
+[[files]]
+file = "mods/weaponmaster.pw.toml"
+hash = "2b35b9a37684927a406d0d22e7572313fbd536aa68e0b103b3743692265c0701"
 metafile = true
 
 [[files]]
