@@ -77,6 +77,10 @@ file = "config/maplink/hud.json5"
 hash = "68a577f7461855cf3ef94d36b154d80a45e3465de8b1569cecafdddb0f5192b1"
 
 [[files]]
+file = "config/subtle_effects/items.toml"
+hash = "79f06a58ce747106fae53a68fee75459f18528dd8950ecb901651c07fbcc3825"
+
+[[files]]
 file = "mods/MickeyJoesFlowers 26.1.zip"
 hash = "570299dc1b750705ba2d7a59d040640412f5aba1c1c968a97a5033aa0a69a879"
 
