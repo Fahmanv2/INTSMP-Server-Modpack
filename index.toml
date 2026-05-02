@@ -481,6 +481,11 @@ hash = "97319e8f3d125b950f3e81e824a1aa562392c6ddc7cf2a6479fd0fbd75a8efc4"
 metafile = true
 
 [[files]]
+file = "mods/voxy-server-side.pw.toml"
+hash = "3f958c1d1be5380b93856df11222afe9c3a3c5e00f8e0d805d46dcc30032538d"
+metafile = true
+
+[[files]]
 file = "mods/wakes.pw.toml"
 hash = "f22d477e1c9a77d0fb94256ee51dbc02b4d404a72d03f0e5d1e801fc2fa7d3fe"
 metafile = true
