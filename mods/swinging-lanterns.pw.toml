@@ -1,13 +1,13 @@
 name = "Swinging Lanterns"
-filename = "swinginglanterns-1.21.11-1.4.0.jar"
+filename = "swinginglanterns-1.21.11-1.5.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8cf13987b76cac4ae4e4b6e9b02985269f338c2e"
+hash = "f98b0c7d7a330fb5e4b3fdb693a473f745f7cea0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7711407
+file-id = 7995536
 project-id = 1477733

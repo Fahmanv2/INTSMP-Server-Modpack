@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "93d1983d9bfa793062896c82a9eb32202681903b4a933abf482d1cc578b12b8b"
+hash = "92a2bb63cccebab6d8dbbee3d3cb28ca27c789ed819b24593a4a37553adb6cd3"
 metafile = true
 
 [[files]]
@@ -187,17 +187,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "acc18c66e780b5cc9b037792a3db7ba522608cf73b934c8eba38d48ac32437e8"
+hash = "6e9bcf87d30c6d416572e1a121fdcc9d78158aaebe2edcbfdc420c8d2f720074"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "347c16b6c813cb356e1eb6d06d74c59a135636e79536c37da1bf4ad615778b79"
+hash = "bbe0c5aa23b613dd689aeafb2d1eff32b726af230bbd489a296520ecb80bcb0d"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "e293f3518af44d2c14abd0eab15a31210b5cf0b59043ece85e9a728516bdb4ec"
+hash = "74061bad20c1a05dc9458686ca416b7719b5f1841f2cf2e90e290b8c7a7d17c6"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "151e599df2c5f3df4234f50a3a6df42add337c8aaecb1a7d71340fe12f2482ca"
+hash = "4ad154c9ddc752ac8f6459aeaa4efafe2d79a30c6c6f9f252b94cbcacb8332be"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersivemusicmod.pw.toml"
-hash = "427becee36c1acf4fcfed0bd9044f9742acc5e19e37a143d0cd929a9110a8d83"
+hash = "71494dbf8b3c194c1e7b8a2bf362b3f0ef332d1e87d2536be0e858b31039e702"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects.pw.toml"
-hash = "5a6d9c86d52d322b14b2088635ff417b48cdb04862617507476cf8350b15b68d"
+hash = "48fa0d48225cb08728205d6af8aadeb0656f2428c6e49b77c88557514f8403b4"
 metafile = true
 
 [[files]]
@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "fdc44d5797531316ceb38154beb9af5a8e2e7a7ef943bf1acd22ce8fcc98691e"
+hash = "9c7f5c0b9dcb9a01101ce88f43101a3aaadc1f4c736631159e80b415a549ef8a"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/punchy.pw.toml"
-hash = "c7dde727b9b0c91579bca38d6d1edcad6d012770152c36d5f1e0b271c310b30b"
+hash = "93d4995ac0432c303bd6018354685f35f25b7e340fd51970633f6fac83632587"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a87dc5173e47487ad33e3e1af5f939c5c345bc4ffb05a8c567ce2f8d10049f08"
+hash = "eb586ee7fd3766ba9b73c6dcd46c0b858743cd1b5368633a42c4283f511463f7"
 metafile = true
 
 [[files]]
@@ -452,7 +452,7 @@ metafile = true
 
 [[files]]
 file = "mods/swinging-lanterns.pw.toml"
-hash = "cf2a8d08257e54ccd28a76aa794ada39bb68d09b79247292b78259bccf4121b0"
+hash = "0bd01ea419707ab515604b066ed9928e712baddf69e0a07680b4c41d37886767"
 metafile = true
 
 [[files]]
