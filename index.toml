@@ -69,6 +69,10 @@ file = "config/fancymenu/video_element_controller_metas.json"
 hash = "63c64d513d8a06da0e7c07a6eb1b5930f094607af03946fe7c9e766f0bebf33a"
 
 [[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "78b2acdce84bec1a2a9055a31c467436835ac1903b12af4b1008c0a325c9a01f"
+
+[[files]]
 file = "config/maplink/general.json5"
 hash = "0ed05f1cc6ec50ec312d37605832318745f74d29138c7b8bc57d53a1a7debe9c"
 
