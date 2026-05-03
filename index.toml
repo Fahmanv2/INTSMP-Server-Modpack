@@ -409,6 +409,11 @@ hash = "4a7720c5d70dad3b0cdc21d9ccdeeed98e1d727243520c781aeb37c6bf9c1558"
 metafile = true
 
 [[files]]
+file = "mods/notes.pw.toml"
+hash = "4bc5c19eb4c70900c1f9eb5b69745b2fd128cda036e02dd4658d03fee98c71bb"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4cf1c2c6979272e6f541f065b6a6db13ef795e80c9774b2f30e18dd29e59733b"
 metafile = true
