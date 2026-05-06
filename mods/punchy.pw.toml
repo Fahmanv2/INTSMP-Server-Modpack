@@ -1,13 +1,13 @@
 name = "Punchy! - First person animations"
-filename = "punchy-2.5.2-fabric-1.21.11.jar"
+filename = "punchy-2.5.3-fabric-1.21.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bb5a96f96b69373826b5e0e3270f3a1aee078549"
+hash = "219118d937f1a81c21dbdb472d5aee03541f397a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 8018128
+file-id = 8029974
 project-id = 1374153
