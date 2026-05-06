@@ -1,0 +1,13 @@
+name = "Dream Displays"
+filename = "dreamdisplays-fabric-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4IIKQyBu/versions/9EljdB1t/dreamdisplays-fabric-1.6.1.jar"
+hash-format = "sha512"
+hash = "39258abbba49b99c71a17a312a34efc6d74b9fd0f389649beb421e9c0b0c1f08d331148ebf87210d0b57c8f4c900d17c653ed3dba59e18b8a325638d51bc4ff2"
+
+[update]
+[update.modrinth]
+mod-id = "4IIKQyBu"
+version = "9EljdB1t"
