@@ -199,9 +199,8 @@ hash = "884f57390f383a114fdd4eea81e40a9b09093960e2978ac4470749d15c77a7a4"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "92cf2fd0a9d158a5e165b2292ed0d11ea94430d258d1952c4fbe16339bd319e3"
-metafile = true
+file = "mods/drippyloadingscreen_fabric_3.1.1_MC_26.1.1.jar"
+hash = "6ea4e58cfa9cf60a5274e2e5e4ae08a5b4394e5b121fe5185f21cfecb98c513c"
 
 [[files]]
 file = "mods/dripsounds.pw.toml"
