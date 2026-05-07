@@ -199,9 +199,8 @@ hash = "884f57390f383a114fdd4eea81e40a9b09093960e2978ac4470749d15c77a7a4"
 metafile = true
 
 [[files]]
-file = "mods/drippy-loading-screen.pw.toml"
-hash = "656016c90b099a0c1620f6453e753015369d7e02be378c284aeb74307e080cdf"
-metafile = true
+file = "mods/drippyloadingscreen_fabric_3.1.1_MC_1.21.11.jar"
+hash = "dbd383304864f15fa85f5787f1d79982d0fd315ff5f161f1c6190cfacecd5e66"
 
 [[files]]
 file = "mods/dripsounds.pw.toml"
@@ -249,9 +248,8 @@ hash = "4ad154c9ddc752ac8f6459aeaa4efafe2d79a30c6c6f9f252b94cbcacb8332be"
 metafile = true
 
 [[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "62f5d9979cefde01e580310590c2e2130101221fb8dd0fd04675b27d2eabdbca"
-metafile = true
+file = "mods/fancymenu_fabric_3.8.4_MC_1.21.11.jar"
+hash = "ef006d649fc2d8a8333516d89f60938085854fdf2bcfb0611f8c65bfa561b97e"
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
