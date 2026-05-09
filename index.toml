@@ -223,6 +223,11 @@ hash = "adcf2601fe44683e7b762d4f4874ed20299818b2e7eb926545903bb80e55524f"
 metafile = true
 
 [[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "657f9c3b7c6c8fe77114e88c8233ec51038f2450864580e0c4fc1844dc63e213"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "bbe0c5aa23b613dd689aeafb2d1eff32b726af230bbd489a296520ecb80bcb0d"
 metafile = true
@@ -434,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "16bfbcdb819dc90b663d045013201c743a4995bd47558460da7ecd77af266d3b"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "71295f65a028ab70a8df465f48b6f0e601d14e47145e29f687de47cfe353bee0"
 metafile = true
 
 [[files]]
