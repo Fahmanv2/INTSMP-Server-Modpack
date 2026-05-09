@@ -1,0 +1,77 @@
+menu_title: '&8&lServer Emotes (Page 2/2)'
+open_command: emotes2
+size: 54
+
+items:
+  'Check_the_time_Left':
+    material: CLOCK
+    slot: 0
+    display_name: '&fCheck the time (Left)'
+    left_click_commands: ['[player] emotes play "Check the time (Left)"', '[close]']
+  'Floss':
+    material: STRING
+    slot: 1
+    display_name: '&dFloss'
+    left_click_commands: ['[player] emotes play Floss', '[close]']
+  'Dropkick':
+    material: LEATHER_BOOTS
+    slot: 2
+    display_name: '&cDropkick'
+    left_click_commands: ['[player] emotes play Dropkick', '[close]']
+  'Punch':
+    material: IRON_SWORD
+    slot: 3
+    display_name: '&cPunch'
+    left_click_commands: ['[player] emotes play Punch', '[close]']
+  'Basket_Head':
+    material: BREAD
+    slot: 4
+    display_name: '&6Basket Head'
+    left_click_commands: ['[player] emotes play "Basket Head"', '[close]']
+  'curl_ups':
+    material: IRON_INGOT
+    slot: 5
+    display_name: '&fcurl ups'
+    left_click_commands: ['[player] emotes play "curl ups"', '[close]']
+  'smoking':
+    material: COAL
+    slot: 6
+    display_name: '&8smoking'
+    left_click_commands: ['[player] emotes play smoking', '[close]']
+  'smoking_loop':
+    material: SMOKER
+    slot: 7
+    display_name: '&8smoking loop'
+    left_click_commands: ['[player] emotes play "smoking loop"', '[close]']
+  'Drunk_fall':
+    material: GLASS_BOTTLE
+    slot: 8
+    display_name: '&eDrunk fall'
+    left_click_commands: ['[player] emotes play "Drunk fall"', '[close]']
+  'Dragged_down':
+    material: ROTTEN_FLESH
+    slot: 9
+    display_name: '&8Dragged down'
+    left_click_commands: ['[player] emotes play "Dragged down"', '[close]']
+  'Hide_Barrel':
+    material: BARREL
+    slot: 10
+    display_name: '&6Hide (Barrel)'
+    left_click_commands: ['[player] emotes play "Hide (Hide and seek - barrel)"', '[close]']
+  'Push_Boat':
+    material: OAK_BOAT
+    slot: 11
+    display_name: '&9Толкать лодку'
+    left_click_commands: ['[player] emotes play "Толкать лодку сзади"', '[close]']
+
+  # --- NAVIGATION ---
+  'stop_button':
+    material: REDSTONE_BLOCK
+    slot: 49
+    display_name: '&4&lSTOP EMOTE'
+    left_click_commands: ['[player] emotes stop', '[close]']
+  'back_page':
+    material: ARROW
+    slot: 45
+    display_name: '&c<- Previous Page'
+    left_click_commands: ['[player] emotes']

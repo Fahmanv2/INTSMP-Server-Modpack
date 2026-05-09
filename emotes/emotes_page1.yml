@@ -1,0 +1,204 @@
+menu_title: '&8&lServer Emotes (Page 1/2)'
+open_command: emotes
+size: 54
+
+items:
+  # --- ROW 1: PRIMARY SIT & LAY EMOTES ---
+  'Sit_on_the_edge':
+    material: OAK_STAIRS
+    slot: 0
+    display_name: '&eSit on the edge'
+    left_click_commands: ['[player] emotes play "Sit on the edge"', '[close]']
+  'Lay_on_back':
+    material: CYAN_BED
+    slot: 1
+    display_name: '&bLay on back'
+    left_click_commands: ['[player] emotes play "Lay on back"', '[close]']
+  'lying_on_side':
+    material: ORANGE_BED
+    slot: 2
+    display_name: '&6lying on side'
+    left_click_commands: ['[player] emotes play "lying on side"', '[close]']
+  'Front_Lying':
+    material: WHITE_BED
+    slot: 3
+    display_name: '&fFront Lying'
+    left_click_commands: ['[player] emotes play "Front Lying"', '[close]']
+  'Lay_on_back2':
+    material: BLUE_BED
+    slot: 4
+    display_name: '&9Lay on back2'
+    left_click_commands: ['[player] emotes play "Lay on back2"', '[close]']
+  'Lay_while_hurt':
+    material: REDSTONE
+    slot: 5
+    display_name: '&cLay while hurt'
+    left_click_commands: ['[player] emotes play "Lay while hurt"', '[close]']
+  'cool_sit':
+    material: DARK_OAK_STAIRS
+    slot: 6
+    display_name: '&7cool sit'
+    left_click_commands: ['[player] emotes play "cool sit"', '[close]']
+  'Russian_Sit':
+    material: ARMOR_STAND
+    slot: 7
+    display_name: '&fСидеть поджав колени'
+    left_click_commands: ['[player] emotes play "Сидеть поджав колени к груди"', '[close]']
+  'Rest':
+    material: CAMPFIRE
+    slot: 8
+    display_name: '&6Rest'
+    left_click_commands: ['[player] emotes play Rest', '[close]']
+
+  # --- ROW 2: KL-SIT VARIATIONS & POSITIONING ---
+  'KL-Sit-1': # Capital S
+    material: OAK_STAIRS
+    slot: 9
+    display_name: '&eKL-Sit-1'
+    left_click_commands: ['[player] emotes play KL-Sit-1', '[close]']
+  'KL-sit-2': # Lowercase s
+    material: BIRCH_STAIRS
+    slot: 10
+    display_name: '&eKL-sit-2'
+    left_click_commands: ['[player] emotes play KL-sit-2', '[close]']
+  'KL-sit-3': # Lowercase s
+    material: SPRUCE_STAIRS
+    slot: 11
+    display_name: '&eKL-sit-3'
+    left_click_commands: ['[player] emotes play KL-sit-3', '[close]']
+  'KL-Sit-Lies': # Capital S
+    material: JUNGLE_STAIRS
+    slot: 12
+    display_name: '&eKL-Sit-Lies'
+    left_click_commands: ['[player] emotes play KL-Sit-Lies', '[close]']
+  'Kneeling':
+    material: LEATHER_LEGGINGS
+    slot: 13
+    display_name: '&7Kneeling'
+    left_click_commands: ['[player] emotes play Kneeling', '[close]']
+  'lean':
+    material: STICK
+    slot: 14
+    display_name: '&7lean'
+    left_click_commands: ['[player] emotes play lean', '[close]']
+  'Get_Griddy':
+    material: GOLDEN_BOOTS
+    slot: 15
+    display_name: '&6Get Griddy'
+    left_click_commands: ['[player] emotes play "Get Griddy"', '[close]']
+  'GigaChad':
+    material: IRON_CHESTPLATE
+    slot: 16
+    display_name: '&8GigaChad'
+    left_click_commands: ['[player] emotes play GigaChad', '[close]']
+  'Lethal_Dance':
+    material: JUKEBOX
+    slot: 17
+    display_name: '&eLethal Dance'
+    left_click_commands: ['[player] emotes play "Lethal Dance"', '[close]']
+
+  # --- ROW 3: POPULAR SOCIAL ---
+  'Hug':
+    material: PINK_WOOL
+    slot: 18
+    display_name: '&dHug'
+    left_click_commands: ['[player] emotes play Hug', '[close]']
+  'Headpat':
+    material: PLAYER_HEAD
+    slot: 19
+    display_name: '&dHeadpat'
+    left_click_commands: ['[player] emotes play Headpat', '[close]']
+  'blow_kiss':
+    material: APPLE
+    slot: 20
+    display_name: '&dBlow Kiss'
+    left_click_commands: ['[player] emotes play "blow kiss"', '[close]']
+  'yoinky_sploinky':
+    material: SLIME_BALL
+    slot: 21
+    display_name: '&ayoinky sploinky'
+    left_click_commands: ['[player] emotes play "yoinky sploinky"', '[close]']
+  'naruto_run':
+    material: SUGAR
+    slot: 22
+    display_name: '&enaruto run'
+    left_click_commands: ['[player] emotes play "naruto run"', '[close]']
+  'Take_The_L':
+    material: BARRIER
+    slot: 23
+    display_name: '&dTake The L'
+    left_click_commands: ['[player] emotes play "Take The L"', '[close]']
+  'Bhop':
+    material: RABBIT_FOOT
+    slot: 24
+    display_name: '&aBhop'
+    left_click_commands: ['[player] emotes play Bhop', '[close]']
+  'Family_Guy_Death':
+    material: PORKCHOP
+    slot: 25
+    display_name: '&fFamily Guy Death'
+    left_click_commands: ['[player] emotes play "Family Guy Death"', '[close]']
+  'Shrug':
+    material: PAPER
+    slot: 26
+    display_name: '&fShrug'
+    left_click_commands: ['[player] emotes play Shrug', '[close]']
+
+  # --- ROW 4: MISC ---
+  'A_s_c_e_n_d':
+    material: FEATHER
+    slot: 27
+    display_name: '&bA s c e n d'
+    left_click_commands: ['[player] emotes play "A s c e n d"', '[close]']
+  'Levitating':
+    material: CHORUS_FRUIT
+    slot: 28
+    display_name: '&dLevitating'
+    left_click_commands: ['[player] emotes play Levitating', '[close]']
+  'lookout':
+    material: SPYGLASS
+    slot: 29
+    display_name: '&flookout'
+    left_click_commands: ['[player] emotes play lookout', '[close]']
+  'Kratos_Falling':
+    material: NETHERITE_AXE
+    slot: 30
+    display_name: '&4Kratos Falling'
+    left_click_commands: ['[player] emotes play "Kratos Falling"', '[close]']
+  'Cheer':
+    material: GOLD_NUGGET
+    slot: 31
+    display_name: '&eCheer'
+    left_click_commands: ['[player] emotes play Cheer', '[close]']
+  'Salute':
+    material: SHIELD
+    slot: 32
+    display_name: '&7Salute'
+    left_click_commands: ['[player] emotes play Salute', '[close]']
+  'Fast_Salute':
+    material: IRON_SWORD
+    slot: 33
+    display_name: '&7Fast Salute'
+    left_click_commands: ['[player] emotes play "Fast Salute"', '[close]']
+  'Hands_up':
+    material: PAPER
+    slot: 34
+    display_name: '&fHands up'
+    left_click_commands: ['[player] emotes play "Hands up"', '[close]']
+  'Showing_suit':
+    material: NETHERITE_CHESTPLATE
+    slot: 35
+    display_name: '&bShowing suit'
+    left_click_commands: ['[player] emotes play "Showing suit"', '[close]']
+
+  # --- NAVIGATION ---
+  'stop_button':
+    material: REDSTONE_BLOCK
+    slot: 49
+    display_name: '&4&lSTOP EMOTE'
+    left_click_commands: ['[player] emotes stop', '[close]']
+  'next_page':
+    material: ARROW
+    slot: 53
+    display_name: '&aNext Page ->'
+    left_click_commands: ['[player] emotes2']
