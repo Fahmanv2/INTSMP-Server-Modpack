@@ -740,9 +740,8 @@ hash = "6ac5b60f56dd437ab137fb33c7d4caa5b2f4cd29c58191db0e24178ddf52cc05"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "c8e86ef8365353749c9a66f025fbdc4d379614224ffb0dad204c236a4698e99d"
-metafile = true
+file = "mods/sodium-fabric-0.8.11+mc1.21.11.jar"
+hash = "9d1f1a7427c4e38a2dd8e8a4eb09cf8fd60a49467254324f99c598afb84b6685"
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
