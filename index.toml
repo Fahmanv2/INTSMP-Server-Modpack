@@ -720,6 +720,11 @@ hash = "a038b2c3aa25108c402af40a37cb1c57db29b2e67d3a102a466a5b1c870f0fbf"
 metafile = true
 
 [[files]]
+file = "mods/real-arrow-tip.pw.toml"
+hash = "e811f225a4ba3634c8ef2bf910810993eb599a1851923243cb6c6dad2a0c96fc"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a75f364211af137686efc7efcccacadba737fe072db7b3969fbce2c8aa643edd"
 metafile = true
