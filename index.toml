@@ -471,11 +471,6 @@ hash = "adcf2601fe44683e7b762d4f4874ed20299818b2e7eb926545903bb80e55524f"
 metafile = true
 
 [[files]]
-file = "mods/emoji-type.pw.toml"
-hash = "b7e81d2abd7eba61fbeb6650f0cd1d9c6845b85b874adabf65bd738ee54d87e7"
-metafile = true
-
-[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "657f9c3b7c6c8fe77114e88c8233ec51038f2450864580e0c4fc1844dc63e213"
 metafile = true
