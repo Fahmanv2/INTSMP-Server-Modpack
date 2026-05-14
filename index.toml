@@ -333,6 +333,11 @@ file = "emotes/Толкать лодку сзади.emotecraft"
 hash = "32b8289b6da41cf885f1a56b4c4b43640d27a817661531bbbb214245c676958d"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d2d3b3714284fd2683c121d80bf9662289c9bb2df7f0a0c80ec741cf8fd4c9b8"
+metafile = true
+
+[[files]]
 file = "mods/MickeyJoesFlowers 26.1.zip"
 hash = "570299dc1b750705ba2d7a59d040640412f5aba1c1c968a97a5033aa0a69a879"
 
