@@ -605,6 +605,11 @@ hash = "200890e05315c9668c8f54ea14dcdee4af48cff502824428900280b9baec5330"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "ac16b53ba189f721a6b542020dcad6b0eeb40fec587cf88b8059b61e6df0a38c"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "aff4aa2f11b20a4535e9a794c3fb316d86ae7ab5e6350bd21ec202784ea1fe9c"
 metafile = true
@@ -732,6 +737,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a75f364211af137686efc7efcccacadba737fe072db7b3969fbce2c8aa643edd"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "7d7c0d5d0aeef5063db2fd8260ee069603fa58ae96c1a40546600df802e357bb"
 metafile = true
 
 [[files]]
