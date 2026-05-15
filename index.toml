@@ -81,6 +81,10 @@ file = "config/maplink/hud.json5"
 hash = "68a577f7461855cf3ef94d36b154d80a45e3465de8b1569cecafdddb0f5192b1"
 
 [[files]]
+file = "config/skinlayers.json"
+hash = "bf1adcb1b9d085875d355d4092f0d1df29645aa1848e226489ae777cc3c563eb"
+
+[[files]]
 file = "config/subtle_effects/items.toml"
 hash = "79f06a58ce747106fae53a68fee75459f18528dd8950ecb901651c07fbcc3825"
 
